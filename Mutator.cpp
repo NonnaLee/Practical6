@@ -4,8 +4,8 @@
 using namespace std;
 
 // Methods
-void Mutator::mutate(Individual * individual, int k)
-{
-
-};
+//void Mutator::mutate(Individual * individual, int k)
+//{
+//
+//};
 

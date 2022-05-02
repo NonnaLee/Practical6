@@ -1,6 +1,7 @@
 #include <string>
 #include <iostream>
 #include "Rearrange.h"
+#include "Individual.h"
 using namespace std;
 
 // Methods

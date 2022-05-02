@@ -9,6 +9,6 @@ class Mutator
 private:
     
 public:
-    virtual void mutate(Individual * individual, int k);
+    virtual void mutate(Individual * individual, int k) = 0;
 };
 #endif
