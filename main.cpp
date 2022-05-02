@@ -3,18 +3,18 @@
 #include <vector>
 #include <string>
 
-#include "Individual.h"
-#include "Mutator.h"
-#include "BitFlip.h"
-#include "Rearrange.h"
-#include "BitFlipProb.h"
+// #include "Individual.h"
+// #include "Mutator.h"
+// #include "BitFlip.h"
+// #include "Rearrange.h"
+// #include "BitFlipProb.h"
 
 
-// #include "Individual.cpp"
-// #include "Mutator.cpp"
-// #include "BitFlip.cpp"
-// #include "Rearrange.cpp"
-// #include "BitFlipProb.cpp"
+#include "Individual.cpp"
+#include "Mutator.cpp"
+#include "BitFlip.cpp"
+#include "Rearrange.cpp"
+#include "BitFlipProb.cpp"
 
 
 Individual * execute(Individual * indPtr, Mutator * mPtr, int k){
